@@ -57,7 +57,7 @@ CONTRIBUTERS:
 '''
 
 # CHANGE THIS IF TESSERACT IS NOT IN YOUR PATH, OR IS NAMED DIFFERENTLY
-tesseract_cmd = r'C:\Personal\Development\Zipgo\tesseract\tesseract.exe'
+tesseract_cmd = r'Your Path\tesseract.exe'
 
 try:
     import Image
